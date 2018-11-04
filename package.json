@@ -1,0 +1,22 @@
+{
+    "name": "online-game",
+    "version": "1.0.0",
+    "description": "HTML5 Canvas online game",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "engines": {
+        "node": "8.12.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qwerty6016/Online-Game.git"
+    },
+    "author": "Yegor Biryukov",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.15.2"
+    }
+}
